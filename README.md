@@ -20,9 +20,11 @@ Datasets are pickle (`.pkl`) files consisting of such columns
 5. Checking for Class imbalance and tackling it
 6. Standard scaling of data
 
+### Selecting the models to train
 ### Training the model
 Train the model on the train data.
 
 Test the model on the test data.
 
 ### Evaluating the model
+
