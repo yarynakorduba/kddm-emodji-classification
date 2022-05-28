@@ -20,6 +20,14 @@ Datasets are pickle (`.pkl`) files consisting of such columns
 5. Checking for Class imbalance and tackling it
 6. Standard scaling of data
 
+#### possibly also data preprocessing of the Tweets themself
+1. remove punctuation
+2. remove URLs
+3. remove hashtags
+4. remove special characters
+5. (remove Emojis)
+
+
 ### Selecting the models to train
 ### Training the model
 Train the model on the train data.
